@@ -5,13 +5,13 @@ virtCPU
 
 ### Description:
 
->   This project is a Virtual CPU interface made using the 32-bit ARM CPU
->   architecture. The CPU uses a load/store architecture and has a register file
->   of 16 registers. The simulation is at register level, it allows users to
->   test machine level programs written for the CPU (read a binary file into
->   memory, display memory, modify memory, execute instructions and display
->   registers). Instruction types include Load/Store, Data Processing, Branch
->   and Conditional Branch.
+This project is a Virtual CPU interface made using the 32-bit ARM CPU
+architecture. The CPU uses a load/store architecture and has a register file
+of 16 registers. The simulation is at register level, it allows users to
+test machine level programs written for the CPU (read a binary file into
+memory, display memory, modify memory, execute instructions and display
+registers). Instruction types include Load/Store, Data Processing, Branch
+and Conditional Branch.
 
  
 
